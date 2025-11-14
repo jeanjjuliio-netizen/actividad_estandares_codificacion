@@ -1,7 +1,18 @@
 """
 Script para calcular el promedio de calificaciones de un estudiante.
 
+Este programa pide al usuario que ingrese varias calificaciones
+y luego calcula y muestra el promedio.
 """
+Los nombres de variables y funciones son claros y descriptivos --- Cumple
+Hay una docstring o comentario inicial que explica el propósito --- Cumple                       
+Los comentarios son utiles (no redundantes ni excesivos) --- Cumple  
+La sangría y el espaciado son consistentes --- Cumple  
+El código está bien estructurado (bloques lógicos, sin líneas inútiles) --- Cumple                
+Se aplica la guía de estilo acordada  --- Cumple  
+
+Bien Jean Cumpliste" 
+ATT Carlos Velasquez 
 
 
 def calcular_promedio(lista_calificaciones):
