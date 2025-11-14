@@ -1,8 +1,6 @@
 """
 Script para calcular el promedio de calificaciones de un estudiante.
 
-Este programa pide al usuario que ingrese varias calificaciones
-y luego calcula y muestra el promedio.
 """
 
 
