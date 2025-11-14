@@ -3,9 +3,6 @@ Script para calcular el promedio de calificaciones de un estudiante.
 
 Este programa pide al usuario que ingrese varias calificaciones
 y luego calcula y muestra el promedio.
-
-Autor: [Tu Nombre]
-Fecha: 13/11/2024
 """
 
 
