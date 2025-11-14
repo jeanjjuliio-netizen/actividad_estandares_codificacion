@@ -2,7 +2,7 @@
 Script para calcular el promedio de calificaciones de un estudiante.
 
 """
-
+khkjhjkhuhiuh
 
 def calcular_promedio(lista_calificaciones):
     """
